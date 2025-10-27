@@ -1,0 +1,88 @@
+Q1: Estrutura Condicional Simples (if)
+Enunciado: Crie um programa que leia a idade de uma pessoa e informe se ela tem idade suficiente para votar (idade maior ou igual a 16 anos).
+Comentário: Esta questão testa a estrutura condicional simples `if`.
+
+Resposta:
+
+
+---
+
+Q2: Estrutura Condicional Composta (if-else)
+Enunciado: Escreva um programa que leia a altura de uma pessoa em metros e informe se ela é considerada "baixa" (menos de 1,60m), "média" (entre 1,60m e 1,80m), ou "alta" (acima de 1,80m).
+Comentário: Essa questão testa o uso de `if-else` para classificar a altura em três categorias.
+
+Resposta:
+
+
+---
+
+Q3: Operadores Aritméticos
+Enunciado: Faça um programa que leia dois números inteiros e calcule a soma, subtração, multiplicação e divisão entre eles, exibindo o resultado de cada operação.
+Comentário: Testa a aplicação de operadores aritméticos (+, -, *, /).
+
+Resposta:
+
+
+---
+
+Q4: Operadores Lógicos
+Enunciado: Escreva um programa que leia dois números inteiros e informe se ambos são positivos. Caso positivo, calcule e mostre a soma dos dois números. Caso contrário, exiba uma mensagem de erro.
+Comentário: A questão utiliza operadores lógicos (`&&`) para verificar múltiplas condições.
+
+Resposta:
+
+
+---
+
+Q5: Tipos de Variáveis
+Enunciado: Crie um programa que leia o nome de um aluno (string) e sua nota final (número real), e mostre a mensagem: "Aluno: [nome], Nota Final: [nota]."
+Comentário: Explora a declaração e uso de variáveis de tipos diferentes (string e float).
+
+Resposta:
+
+
+---
+
+Q6: Verificação de Par ou Ímpar
+Enunciado: Escreva um programa que leia um número inteiro e verifique se ele é par ou ímpar.
+Comentário: Utiliza o operador de módulo (`%`) para verificar divisibilidade por 2.
+
+Resposta:
+
+
+---
+
+Q7: Comparação de Números
+Enunciado: Faça um programa que leia dois números e informe qual é o maior e qual é o menor.
+Comentário: Testa o uso de `if-else` para comparar dois números e determinar qual é maior ou menor.
+
+Resposta:
+
+---
+
+Q8: Leitura e Impressão de Variáveis
+Enunciado: Crie um programa que leia três números reais e calcule a média desses números. Em seguida, informe se a média é maior ou igual a 7.
+Comentário: Trabalha com a leitura de números reais e a aplicação de uma condição simples com `if`.
+
+Resposta:
+
+
+---
+
+Q9: Verificação de Múltiplos
+Enunciado: Crie um programa que leia dois números inteiros e informe se o primeiro é múltiplo do segundo.
+Comentário: Verifica a relação de múltiplos utilizando o operador de módulo.
+
+Resposta:
+
+
+---
+
+Q10: Calculadora Simples com Condição Lógica
+Enunciado: Crie um programa que leia dois números inteiros e um caractere. Se o caractere for 's', o programa deve somar os dois números; se for 'm', deve multiplicá-los; caso contrário, deve exibir uma mensagem de erro. Além disso, se os dois números forem iguais, o programa deve informar "Números iguais", caso contrário, deve informar "Números diferentes".
+Comentário: Essa questão mistura tudo: operadores aritméticos, lógicos e estruturas condicionais.
+
+Resposta:
+
+
+---
